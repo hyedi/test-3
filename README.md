@@ -46,3 +46,11 @@ var today = new Date();
 document.write(today);
 </script>
 ```
+
+<http://www.google.com>
+
+[구글](http://www.google.com)
+
+[구글](http://www.google.com, "검색 사이트")
+
+
